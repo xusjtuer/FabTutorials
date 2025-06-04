@@ -185,11 +185,9 @@ def example_read():
 - **蓝图数量**：40+
 - **C++ 类数量**：4
 - **网络同步**：不支持
-- **文档链接**：[Documentation](https://example.com/documentation)
-- **示例项目**：[Example Project](https://example.com/example-project)
 
 ## 🛠️ 支持
-如果您遇到任何问题、错误或有功能请求，可以在 GitHub 上创建一个新问题：[点击这里](https://github.com/xusjtuer/IPC/issues)。提供复现步骤、截图或 blueprintUE 链接将非常有帮助。
+如果您遇到任何问题、错误或有功能请求，可以在 GitHub 上创建一个新问题：[点击这里]([Issues · xusjtuer/FabTutorials](https://github.com/xusjtuer/FabTutorials/issues))。提供复现步骤、截图或 blueprintUE 链接将非常有帮助。
 
 对于插件的常见问题，您可以在 GitHub 页面或 Unreal Engine 论坛上提问。
 

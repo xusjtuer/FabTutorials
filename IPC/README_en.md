@@ -185,11 +185,9 @@ def example_read():
 - **Number of Blueprints**: 40+
 - **Number of C++ Classes**: 4
 - **Network Replicated**: No
-- **Documentation Link**: [Documentation](https://example.com/documentation)
-- **Example Project**: [Example Project](https://example.com/example-project)
 
 ## 🛠️ Support
-If you encounter any issues, bugs, or have feature requests, you can create a new issue on GitHub [here](https://github.com/xusjtuer/IPC/issues). Providing replication steps, screenshots, or blueprintUE links for formatting issues would be greatly helpful.
+If you encounter any issues, bugs, or have feature requests, you can create a new issue on GitHub [here]([Issues · xusjtuer/FabTutorials](https://github.com/xusjtuer/FabTutorials/issues)). Providing replication steps, screenshots, or blueprintUE links for formatting issues would be greatly helpful.
 
 For general questions about the plugin, you can ask them on the GitHub page or on the Unreal Engine forum.
 
