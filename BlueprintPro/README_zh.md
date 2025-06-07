@@ -922,9 +922,9 @@ UE_LOG(LogTemp, Log, TEXT("成功从静态网格描述构建静态网格 LOD"));
 
 - **作者**：XUSJTUER  
 - **邮箱**：xusjtuer@163.com  
-- **GitHub**：[https://github.com/xusjtuer/BlueprintPro](https://github.com/xusjtuer/BlueprintPro)  
-- **文档**：[README.md](https://github.com/xusjtuer/BlueprintPro/blob/main/README.md)  
-- **支持页面**：[Support Page](https://github.com/xusjtuer/BlueprintPro)
+- **GitHub**：[https://github.com/xusjtuer](https://github.com/xusjtuer)  
+- **文档**：[README_en.md](https://github.com/xusjtuer/FabTutorials/blob/main/BlueprintPro/README_en.md) ; [README_zh.md](https://github.com/xusjtuer/FabTutorials/blob/main/BlueprintPro/README_zh.md) 
+- **支持页面**：[Support Page](https://github.com/xusjtuer/FabTutorials/issues)
 
 如需提交 Bug 或建议，请优先通过 GitHub Issue 反馈。我们会尽快为您提供帮助！
 

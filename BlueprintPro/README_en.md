@@ -915,9 +915,9 @@ If you have any questions about BlueprintPro or need support, feel free to conta
 
 - **Author:** XUSJTUER  
 - **Email:** xusjtuer@163.com  
-- **GitHub:** [https://github.com/xusjtuer/BlueprintPro](https://github.com/xusjtuer/BlueprintPro)  
-- **Documentation:** [README.md](https://github.com/xusjtuer/BlueprintPro/blob/main/README.md)  
-- **Support Page:** [Support Page](https://github.com/xusjtuer/BlueprintPro)
+- **GitHub:** [https://github.com/xusjtuer](https://github.com/xusjtuer)  
+- **Documentation:** [README_en.md](https://github.com/xusjtuer/FabTutorials/blob/main/BlueprintPro/README_en.md) ; [README_zh.md](https://github.com/xusjtuer/FabTutorials/blob/main/BlueprintPro/README_zh.md)  
+- **Support Page:** [Support Page](https://github.com/xusjtuer/FabTutorials/issues)
 
 For bug reports or suggestions, please use GitHub Issues first. We will respond as soon as possible!
 
